@@ -178,7 +178,7 @@ Below is a sample for ``rocsparse_subroutine.cpp``, ``rocsparse_subroutine.hpp``
 .. code-block:: cpp
    :caption: rocsparse_subroutine.cpp
 
-   #include "rocsparse.h"
+   #include "rocsparse/rocsparse.h"
    #include "rocsparse_subroutine.hpp"
 
    /*
